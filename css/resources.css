@@ -4,6 +4,7 @@ html, body{
 	min-width: 100%;
 	min-height: 100%;
 	background-color: #fbae5e;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .wrapper {
     -webkit-align-content: center;
